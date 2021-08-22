@@ -1,0 +1,20 @@
+.filter{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 10px;
+    align-items: center;
+    width: 100%;
+}
+.filter-select{
+    padding: 10px 5px;
+    outline: none;
+    border: none;
+    background-color: #ee32a9;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+option{
+    padding: 5px 0;
+}
